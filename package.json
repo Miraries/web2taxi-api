@@ -1,7 +1,7 @@
 {
   "name": "web2taxi",
   "version": "1.0.0",
-  "description": "api for web2taxi.me in node.js",
+  "description": "client lib for web2taxi.me",
   "main": "Client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
